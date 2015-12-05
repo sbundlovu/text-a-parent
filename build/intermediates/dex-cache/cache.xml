@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Projects\Android\TextAParent\app\libs\commons-codec-1.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\commons-codec-1.9-ee22aa346ca7daaea733e417f484229a6a9e0e12.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\TextAParent\app\libs\jna-platform-4.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\jna-platform-4.1.0-f4d61c7715329876d05821c1ae2c2d7a758f8e6a.jar" />
+    </item>
+    <item
+        jar="E:\Users\Mental\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-2b700eba33fd03d348118e1bd01172f071ce14ef.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\TextAParent\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\classes-629aee420405b96bd8399ec2c1022d93722d243b.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\TextAParent\app\libs\httpclient-cache-4.5.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6247317086cb12d2a5fe3296afeccb1d3e00525c">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\httpclient-cache-4.5.1-9be1f22878de2e068012498f4007aecfa1486386.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\TextAParent\app\libs\httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\httpcore-4.4.3-5721df8d7b9fc000e167e29a93f00296d03ac32e.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\TextAParent\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-f3c7d2db69cfdda876e6985fec1c9e4daeeb72b5.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\TextAParent\app\libs\fluent-hc-4.5.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2a4bafd995d1403c26d874bf52f76e7f74af8b9a">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\fluent-hc-4.5.1-bbf4bb627b861e9a2af43ee8363f3548c2545866.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\TextAParent\app\libs\jna-4.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\jna-4.1.0-367fe42fe62414385a296dc4c1ec3efd4ff779cd.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\TextAParent\app\libs\commons-logging-1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\commons-logging-1.2-d634ad543a0916d3be20217ff91431da7576199e.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\TextAParent\app\libs\httpmime-4.5.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="96823b9421ebb9f490dec837d9f96134e864e3a7">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\httpmime-4.5.1-c56edfd33bf27c7c8e19e261b0723de8030b42f9.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\TextAParent\app\libs\httpclient-4.5.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\httpclient-4.5.1-a9221b76019a6b2a554bafbbe169d85c49b13a2f.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\TextAParent\app\libs\httpclient-win-4.5.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1829f9483cded887b5e7eb354d9a86e81d377962">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\httpclient-win-4.5.1-a7df2ca626656440c2f5c394c3348105c902e6cf.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\TextAParent\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="F:\Projects\Android\TextAParent\app\build\intermediates\pre-dexed\debug\classes-2aa7842cae5fb492316daf854be0b8fe330ffc8d.jar" />
+    </item>
+
+</items>

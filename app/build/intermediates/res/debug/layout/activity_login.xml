@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/abc_switch_track_mtrl_alpha" />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:text="Username"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/etUsername"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="Password"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/etPassword"
+            android:inputType="textPassword"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/signIn"
+            android:text="Sign In"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+</LinearLayout>
+
+<!-- From: file:/F:/Projects/Android/TextAParent/app/src/main/res/layout/activity_login.xml -->
